@@ -5,9 +5,14 @@
 
 The Access Control for Project Table is a comprehensive, role-based solution designed to manage user access and permissions for project-related data. Utilizing a Role-Based Access Control (RBAC) model, the system ensures that users can only access or modify project data based on their assigned roles. This project is ideal for applications requiring robust data protection, granular access control, and efficient management of project information.
 
+## 👥 Team Members
+Nandhana AB
+Swathi M
+Sredha T Manoj 
+Shameer Rahman
+Shiyas PK
 
-
-# 📑 Table of Contents
+## 📑 Table of Contents
 
 1. Project Description
 
@@ -29,15 +34,8 @@ The Access Control for Project Table is a comprehensive, role-based solution des
 
 10. Use Cases
 
-👥 Team Members
 
-Nandhana AB
-Swathi M
-Sredha T Manoj 
-Shameer Rahman
-Shiyas PK
-
-# 📂 Project Structure
+## 📂 Project Structure
 
 Access-Control-Project-Table/
 ├── client/                # React frontend
@@ -54,7 +52,7 @@ Access-Control-Project-Table/
 ├── README.md              # Project documentation
 └── LICENSE                # License information
 
-# Security Best Practices
+## Security Best Practices
 
 Data Encryption: Passwords are hashed using bcrypt for secure storage.
 
@@ -64,13 +62,16 @@ Input Validation: All inputs are sanitized to prevent NoSQL injection and XSS at
 
 Environment Variables: Sensitive data is managed using .env files.
 
-# Use Cases
+## Use Cases
 
 Project Management Tools: Role-based access control for managing project data securely.
 
 Collaboration Platforms: Provides different levels of access for team members based on their roles.
 
 Enterprise Systems: Enforces strict access control and auditing for compliance and security.
+
+
+
 
 
 
