@@ -8,7 +8,7 @@ The Access Control for Project Table is a comprehensive, role-based solution des
 ## 👥 Team Members
 Nandhana AB
 Swathi M
-Sredha T Manoj 
+Sredha T M
 Shameer Rahman
 Shiyas PK
 
